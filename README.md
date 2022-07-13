@@ -8,4 +8,5 @@ The program uses Dijkstra's algorithm that allows us to find the shortest path b
 <br>
 You can write in the console the name of the counties or their residences in order to calculate the distance between them. You can use the image to see all the counties.
 <br><br>
-![image](https://user-images.githubusercontent.com/102962523/178830931-e65d9315-1fe1-4ad9-98dc-5c693f6ea39a.png)
+![image](https://user-images.githubusercontent.com/102962523/178837505-30b0bdbb-7980-4635-bf50-65fe5105e68b.png)
+
