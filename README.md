@@ -2,7 +2,7 @@
 
 The project is not complete!! This is only the back-end program. It does not have a GUI yet.
 <br>
-The program calculates the distance between 2 counties from Romania and shows what counties you have to go through in order to reach your destination.
+The program calculates the shortest route between 2 counties from Romania and shows what counties you have to go through in order to reach your destination.
 <br>
 The program uses Dijkstra's algorithm that allows us to find the shortest path between any two vertices of a graph. Here, the vertices are the counties.
 <br>
